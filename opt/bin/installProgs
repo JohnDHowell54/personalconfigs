@@ -1,0 +1,9 @@
+#!/bin/sh
+yay i3-gaps
+sudo pacman -S rxvt-unicode
+sudo pacman -S firefox
+yay steam
+yay spotify
+sudo pacman -S thunderbird
+sudo pacman -S zathura
+sudo pacman -S libreoffice

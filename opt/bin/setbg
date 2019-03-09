@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "What do you want your background to be?"
+
+read back
+
+feh --bg-scale ~/Pictures/$back.*
